@@ -15,31 +15,54 @@ I'm a passionate Java Full Stack Developer with a strong focus on creating effic
 
 ---
 
-### 🛠️ Tech Stack
-[![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![JSP](https://img.shields.io/badge/JSP-D32F2F?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
-[![Servlets](https://img.shields.io/badge/Servlets-7B1FA2?style=flat&logo=apachetomcat&logoColor=white)](https://tomcat.apache.org/)
-[![JDBC](https://img.shields.io/badge/JDBC-008080?style=flat&logo=databricks&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
-[![MySQL](https://img.shields.io/badge/MySQL-32C1AE?style=flat&logo=mysql&logoColor=black)](https://www.mysql.com/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
-[![Microservices](https://img.shields.io/badge/Microservices-25D366?style=flat&logo=docker&logoColor=white)](https://microservices.io/)
-[![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Tomcat](https://img.shields.io/badge/Tomcat-444444?style=flat&logo=apachetomcat&logoColor=white)](https://tomcat.apache.org/)
-[![Git](https://img.shields.io/badge/Git-F14E32?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
 
+  [![JSP](https://img.shields.io/badge/JSP-D32F2F?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
+  [![Servlets](https://img.shields.io/badge/Servlets-7B1FA2?style=flat&logo=apachetomcat&logoColor=white)](https://tomcat.apache.org/)
+  [![JDBC](https://img.shields.io/badge/JDBC-008080?style=flat&logo=databricks&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+  [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
+  [![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
+  [![Microservices](https://img.shields.io/badge/Microservices-25D366?style=flat&logo=docker&logoColor=white)](https://microservices.io/)
+  </p>
 
 ---
+
+<p align="center">Visitor count</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bpraveen5/count.svg" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bpraveen5&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+---
+
 
 ### 🔗 Let's Connect
 
