@@ -56,6 +56,13 @@ I'm a passionate Java Full Stack Developer with a strong focus on creating effic
 
 ---
 
+## 🏆 GitHub Achievements
+
+| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) |
+| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+|                                              YOLO                                             |                                                 Pull Shark                                                |
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bpraveen5&show_icons=true&theme=radical&hide_border=true" />
