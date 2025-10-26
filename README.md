@@ -49,10 +49,10 @@ I'm a passionate Java Full Stack Developer with a strong focus on creating effic
 
 ---
 
-<p align="center">Visitor count</p>
+<!-- <p align="center">Visitor count</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/bpraveen5/count.svg" />
-</p>
+</p> -->
 
 ---
 
