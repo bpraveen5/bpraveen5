@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 I'm a passionate Java Full Stack Developer with a strong focus on creating efficient and scalable applications With a solid foundation in Java full stack development. And Certified in Programming Java from NPTEL. Spring Boot, React, Spring Security, Hibernate, and Microservices, REST APIs, and integrating frontend and backend systems. Passionate about creating efficient solutions and continuously improving my skills in software development.
-- 💬 Ask me about **Java**, **JSP/Servlets**, **JDBC**, **MySQL**, **Spring Boot** or **web deployment**.
+- 💬 Ask me about **Java**, **JSP/Servlets**, **JDBC**, **MySQL**, **Spring Boot**, **Microservices**, **React** or **web deployment**.
 - 📫 How to reach me: [bpraveen8040@gmail.com](mailto:bpraveen8040@gmail.com)
 - 💼 Check out my portfolio: [https://bpraveen5.github.io/portfolio-react/](https://your-portfolio.com)
 
