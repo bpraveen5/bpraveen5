@@ -13,8 +13,17 @@
 ### 👨‍💻 About Me
 I'm a passionate Java Full Stack Developer with a strong focus on creating efficient and scalable applications With a solid foundation in Java full stack development. And Certified in Programming Java from NPTEL. Spring Boot, React, Spring Security, Hibernate, and Microservices, REST APIs, and integrating frontend and backend systems. Passionate about creating efficient solutions and continuously improving my skills in software development.
 - 💬 Ask me about **Java**, **JSP/Servlets**, **JDBC**, **MySQL**, **Spring Boot**, **Microservices**, **React** or **web deployment**.
-- 📫 How to reach me: [bpraveen8040@gmail.com](mailto:bpraveen8040@gmail.com)
-- 💼 Check out my portfolio: [https://bpraveen5.github.io/portfolio-react/](https://your-portfolio.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/b-praveen-kumar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bpraveen8040@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bpraveen5">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -106,7 +115,7 @@ I actively contribute to open-source projects to enhance community-driven develo
 </table>
 
 </div>
-<br>
+<!-- <br> -->
 <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bpraveen5&theme=tokyo-night&hide_border=true" /> </div>
 
 ---
