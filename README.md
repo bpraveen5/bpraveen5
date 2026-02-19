@@ -100,7 +100,7 @@ I actively contribute to open-source projects to enhance community-driven develo
 
 <table width="100%" border="1" cellpadding="15">
 <tr>
-<td width="60%" align="center">
+<td width="55%" align="center">
 
 <img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bpraveen5&show_icons=true&theme=tokyonight" />
 
