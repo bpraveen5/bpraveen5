@@ -85,22 +85,50 @@ I actively contribute to open-source projects to enhance community-driven develo
 | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 |                                              YOLO                                             |                                                 Pull Shark                                                |
 
+---
+<h1 align="center">📊 GitHub Stats</h1> 
+<div align="center">
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpraveen5&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<table width="100%" border="1" cellpadding="15">
+<tr>
+<td width="60%" align="center">
+
+<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bpraveen5&show_icons=true&theme=tokyonight" />
+
+</td>
+
+<td width="55%" align="center">
+
+<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpraveen5&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+</div>
+<br>
+<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bpraveen5&theme=tokyo-night&hide_border=true" /> </div>
 
 ---
 
+## 🌍 Open Source Enthusiast
 
-### 🔗 Let's Connect
+Contributing to open-source is my way of giving back to the developer community.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/b-praveen-kumar/)" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)" />
-  </a>
-  <a href="mailto:bpraveen8040@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-1E91FF?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)" />
-  </a>
+If you have a project where I can help, feel free to reach out!
+
+Open to:
+- Open-source collaborations
+- Full-stack development projects
+- Innovative tech discussions
+
+Let’s build something meaningful together.
+
+---
+<p align="center">
+<b>💡“Code. Learn. Build. Repeat.”</b> 
+</p>
+
+<p align="center">
+  <b>Thank you for visiting my GitHub profile 🙌</b>
 </p>
