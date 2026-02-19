@@ -98,7 +98,7 @@ I actively contribute to open-source projects to enhance community-driven develo
 <h1 align="center">📊 GitHub Stats</h1> 
 <div align="center">
 
-<table width="100%" border="1" cellpadding="15">
+<table width="95%" border="1" cellpadding="15">
 <tr>
 <td width="55%" align="center">
 
