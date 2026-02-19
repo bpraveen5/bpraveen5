@@ -98,15 +98,15 @@ I actively contribute to open-source projects to enhance community-driven develo
 <h1 align="center">📊 GitHub Stats</h1> 
 <div align="center">
 
-<table width="92%" border="1" cellpadding="15">
+<table width="90%" border="1" cellpadding="12">
 <tr>
-<td width="55%" align="center">
+<td width="60%" align="center">
 
 <img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bpraveen5&show_icons=true&theme=tokyonight" />
 
 </td>
 
-<td width="50%" align="center">
+<td width="55%" align="center">
 
 <img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpraveen5&layout=compact&theme=tokyonight" />
 
