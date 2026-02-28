@@ -27,45 +27,129 @@ I'm a passionate Java Full Stack Developer with a strong focus on creating effic
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
+### 🧑‍💻My Tech Stack & Skills
 
-   [![JSP](https://img.shields.io/badge/JSP-D32F2F?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
-   [![Servlets](https://img.shields.io/badge/Servlets-7B1FA2?style=flat&logo=apachetomcat&logoColor=white)](https://tomcat.apache.org/)
-   [![JDBC](https://img.shields.io/badge/JDBC-008080?style=flat&logo=databricks&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
-   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
-   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-   [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
-   [![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
-   [![Microservices](https://img.shields.io/badge/Microservices-25D366?style=flat&logo=docker&logoColor=white)](https://microservices.io/)
-  </p>
-
-<!-- <p align="center">Visitor count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/bpraveen5/count.svg" />
-</p> -->
+<div align="center">
+  <table style="border-collapse: collapse; border: none; width: 100%; max-width: 900px; table-layout: fixed;">
+    <tr>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Java</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Spring</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React.js" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">React.js</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" alt="Bootstrap" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Bootstrap</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">HTML5</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">CSS3</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">JavaScript</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">MySQL</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Node.js</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Python</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">MongoDB</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" alt="Docker" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Docker</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">C</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" alt="Postman" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Postman</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="30" alt="Apache Tomcat" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Apache Tomcat</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">GitHub</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Git</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">VS Code</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30" alt="Eclipse" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Eclipse</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" alt="IntelliJ IDEA" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">IntelliJ IDEA</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Linux</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/JSP-D32F2F?style=flat&logo=java&logoColor=white" width="45" alt="JSP" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">JSP</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Servlets-7B1FA2?style=flat&logo=apachetomcat&logoColor=white" width="60" alt="Servlets" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Servlets</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/JDBC-008080?style=flat&logo=databricks&logoColor=white" width="55" alt="JDBC" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">JDBC</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" width="75" alt="Hibernate" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Hibernate</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/REST%20APIs-25D366?style=flat&logo=swagger&logoColor=white" width="75" alt="REST APIs" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">REST APIs</p>
+      </td>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Microservices-25D366?style=flat&logo=docker&logoColor=white" width="85" alt="Microservices" style="margin-bottom: 5px;"/>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Microservices</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
+
 ## 📌 Open Source Contributions
 
 I actively contribute to open-source projects to enhance community-driven development and improve software quality. Below are some of my recent contributions:
