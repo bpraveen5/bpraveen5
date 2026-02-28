@@ -38,7 +38,7 @@ I'm a passionate Java Full Stack Developer with a strong focus on creating effic
       </td>
       <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring" style="margin-bottom: 5px;"/>
-        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Spring</p>
+        <p style="color: #c9d1d9; font-size: 10px; font-weight: bold; margin: 0;">Spring Boot</p>
       </td>
       <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117; width: 11.11%;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React.js" style="margin-bottom: 5px;"/>
