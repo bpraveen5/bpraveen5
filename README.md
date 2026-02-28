@@ -90,10 +90,9 @@ I actively contribute to open-source projects to enhance community-driven develo
 
 ## 🏆 GitHub Achievements
 
-| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) |
-| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|                                              YOLO                                             |                                                 Pull Shark                                                |
-
+| ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+|                                          Pair Extraordinaire                                           |                                                YOLO                                                |                                               Pull Shark                                               |
 ---
 <h1 align="center">📊 GitHub Stats</h1> 
 <div align="center">
