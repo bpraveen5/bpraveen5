@@ -222,5 +222,5 @@ Let’s build something meaningful together.
 </p>
 
 <p align="center">
-  <b>Thank you for visiting my GitHub profile 🙌</b>
+  <b>Thank you for visiting my GitHub profile🙌</b>
 </p>
