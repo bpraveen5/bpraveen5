@@ -163,14 +163,14 @@ I actively contribute to open-source projects to enhance community-driven develo
 
 
 ### 🔍 Contribution Highlights
-- Improved code efficiency and readability.
-- Followed project contribution guidelines and best practices.
-- Collaborated with maintainers for successful pull request merges.
-- Ensured clean, scalable, and maintainable code standards.
+```diff
++ Improved code efficiency and readability
++ Followed project contribution guidelines and best practices
++ Collaborated with maintainers for successful pull request merges
++ Ensured clean, scalable, and maintainable code standards
+```
 
-
-📬 *I look forward to contributing to more impactful open-source projects and collaborating with developers worldwide.*
-
+📬 Looking forward to contributing to more impactful open-source projects and collaborating with developers worldwide.
 ---
 
 ## 🏆 GitHub Achievements
