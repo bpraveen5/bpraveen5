@@ -4,7 +4,7 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/95acdee0-c6cf-4036-9dbb-8d96f3227d2a" />
 
 <h3 align="center">Java Full Stack Developer</h3>
-
+        
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Backend+with+Springboot+%7C+Servlets+%7C+JDBC;Frontend+with+React+%7C+CSS+%7C+JS;Let's+build+something+awesome!" />
 </p>
