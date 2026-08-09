@@ -98,26 +98,6 @@ I actively contribute to open-source projects to enhance community-driven develo
 |                                          Pair Extraordinaire                                           |                                                YOLO                                                |                                               Pull Shark                                               |
 ---
 
-
-## 📊 GitHub Stats
-<div align="center">
-<table width="90%" border="1" cellpadding="12">
-<tr>
-<td width="60%" align="center">
-<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bpraveen5&show_icons=true&theme=tokyonight" />
-</td>
-<td width="55%" align="center">
-<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bpraveen5&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
-
-</div>
-<!-- <br> -->
-<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bpraveen5&theme=tokyo-night&hide_border=true" /> </div>
-
----
-
 ## 🌍 Open Source Enthusiast
 
 Contributing to open-source is my way of giving back to the developer community.
