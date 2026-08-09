@@ -8,29 +8,55 @@
         
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Backend+with+Springboot+%7C+Servlets+%7C+JDBC;Frontend+with+React+%7C+CSS+%7C+JS;Let's+build+something+awesome!" />
+  <br>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Open+Spurce+Contributor;Let's+build+something+awesome!" />
+
 </p>
 
----
-
-### 👨‍💻 About Me
-I'm a passionate Java Full Stack Developer with a strong focus on creating efficient and scalable applications With a solid foundation in Java full stack development. And Certified in Programming Java from NPTEL. Spring Boot, React, Spring Security, Hibernate, and Microservices, REST APIs, and integrating frontend and backend systems. Passionate about creating efficient solutions and continuously improving my skills in software development.
-- 💬 Ask me about **Java**| **Python** |**JSP/Servlets**| **JDBC**| **MySQL**| **Spring Boot**| **Microservices**| **java script**| **React** or **web deployment**.
 <p align="center">
-  <a href="https://www.linkedin.com/in/b-praveen-kumar/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bpraveen8040@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bpraveen5">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/b-praveen-kumar/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bpraveen8040@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/bpraveen5"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
 
+<img align="right" width="220" alt="github-1" src="https://github.com/user-attachments/assets/1116f291-0fc4-40c3-a624-da7af90f2dde" style="margin: 0 0 10px 10px;" />
+
+👋 Hi, I'm **B Praveen Kumar**, a **Java Full Stack Developer** passionate about building practical, scalable, and user-focused software solutions.
+
+💻 My primary focus is **Java and Spring Boot**, with hands-on experience in **REST APIs, Microservices, Hibernate, Spring Security, React, JavaScript, and MySQL**. I enjoy working across both backend and frontend to understand how complete applications are designed and built.
+
+🚀 I regularly build projects to strengthen my development skills and explore technologies such as **Docker, Redis, Kafka, Prometheus, Grafana, and AI/Generative AI**.
+
+🤝 I also enjoy contributing to **open-source projects**, collaborating with developers, exploring real-world problems, and continuously improving my coding and software engineering practices.
+
+🤖 Recently, I have been exploring **AI-powered applications and RAG systems**, combining my Java/Spring Boot background with modern AI technologies.
+
+📚 I believe in **learning by building** — experimenting with new technologies, solving problems, and turning ideas into working applications.
+
+🏆 **NPTEL Certified – Programming in Java**
+
+### 🛠️ Technologies I Work With
+
+**Languages:** Java • Python • JavaScript • SQL
+**Backend:** Spring Boot • Spring MVC • Hibernate • JDBC • Servlets/JSP
+**Frontend:** React • HTML • CSS • JavaScript • Bootstrap
+**Database:** MySQL • PostgreSQL • Redis
+**Architecture:** REST APIs • Microservices • Spring Cloud
+**Security:** Spring Security • JWT
+**Tools:** Git • GitHub • Docker • Postman • IntelliJ IDEA
+**Monitoring:** Prometheus • Grafana
+**AI:** Spring AI • Google Gemini • RAG • AI Agents
+
+🌱 **Currently learning:** Advanced Spring Boot, Microservices, Cloud technologies, DevOps, and AI-powered application development.
+
+📌 **Open to:** Java Full Stack Developer • Java Developer • Backend Developer • Software Engineer opportunities and open-source collaborations.
+
+---
 
 ### 🧑‍💻My Tech Stack & Skills
 
