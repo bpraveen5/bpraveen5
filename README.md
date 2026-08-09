@@ -1,7 +1,8 @@
 
 <h2 align="center">Hi!👋, I'm B.Praveen Kumar</h2>
+<img width="890" height="300" alt="gif-2" src="https://github.com/user-attachments/assets/082b8d21-cce7-4b48-98b1-a07c8611659a" />
              
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/95acdee0-c6cf-4036-9dbb-8d96f3227d2a" />
+<!-- <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/95acdee0-c6cf-4036-9dbb-8d96f3227d2a" /> -->
 
 <h3 align="center">Java Full Stack Developer</h3>
         
