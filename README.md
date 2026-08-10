@@ -98,6 +98,9 @@ I actively contribute to open-source projects to enhance community-driven develo
 |                                          Pair Extraordinaire                                           |                                                YOLO                                                |                                               Pull Shark                                               |
 ---
 
+<br> 
+
+<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bpraveen5&theme=tokyo-night&hide_border=true" /> </div>
 ## 🌍 Open Source Enthusiast
 
 Contributing to open-source is my way of giving back to the developer community.
