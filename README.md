@@ -102,8 +102,8 @@ I actively contribute to open-source projects to enhance community-driven develo
 
 <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bpraveen5&theme=tokyo-night&hide_border=true" /> </div>
 
-## Contribution
-<picture>
+### 🐍 Contribution Activity
+<picture
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bpraveen5/bpraveen5/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bpraveen5/bpraveen5/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bpraveen5/bpraveen5/output/github-contribution-grid-snake.svg">
